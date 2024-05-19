@@ -1,6 +1,4 @@
-@extends('layouts.app')
-
-@section('content')
+@extends('layouts.backend') @section('title','Halaman Dashboard') @section('content')
 <div class="card">
     <div class="card-header">Manage Roles</div>
     <div class="card-body">
